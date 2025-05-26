@@ -1,0 +1,8 @@
+# Nmap 7.95 scan initiated Mon May 26 20:09:44 2025 as: /usr/lib/nmap/nmap --privileged -sS -sV -oN nmap_scan_results_20250526_200944.txt -oX scan.xml "192.168.0.0/24
+192.168.0.0/24"
+Failed to resolve "192.168.0.0/24
+192.168.0.0".
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Mon May 26 20:09:45 2025 -- 0 IP addresses (0 hosts up) scanned in 0.11 seconds
+HTML report generated: nmap_scan_results_20250526_200944.html
+
